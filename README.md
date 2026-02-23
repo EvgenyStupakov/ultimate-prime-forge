@@ -1,10 +1,10 @@
-# 🏭 Ultimate Prime Forge Lab
+#  Ultimate Prime Forge Lab
 
 **Ultimate Prime Forge Lab** is an experimental Python project for generating large prime numbers using multiple algorithmic strategies. It combines four generation approaches, checks candidates for primality, and provides real-time statistics.
 
 ---
 
-## ⚡ Generators
+## Generators
 
 ### 1. Chaotic Generator
 
